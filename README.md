@@ -19,8 +19,13 @@ The goal of this project is to develop the best linear regression model for a sm
   - Hyperparameter tuning to optimize model performance and robustness
 
 ### Repository Structure:
-- **Script.ipynb**: The Python notebook containing the full implementation of the regression analysis, including data preprocessing, visualization, modeling, and evaluation.
-- **requirements.txt**: A file listing all the dependencies (packages and versions) needed to execute the project.
+- **Script.ipynb**: The Python notebook containing the complete implementation of regression analysis, including data preprocessing, visualization, modeling, and evaluation steps.
+- **requirements.txt**: A file listing all the dependencies (packages and versions) required to run the project
+- **Assignement.pdf**: The challenge assignment document detailing the task requirements and providing information about the datasets
+- **my_predictions.txt**: The final predictions made on Xtest.txt, used for evaluation in the challenge
+- **data.txt**: The full dataset provided for model development, containing both predictors and the corresponding target values
+- **Xtest.txt**: The dataset containing only predictors, used for generating final predictions to be evaluated as part of the challenge
+  
 
 ### How to execute the code?
 The Jupyter Notebook contains all the necessary code, visualizations, and outputs. You can view it directly on GitHub without running the code manually. However, if you want to run the notebook locally, all the requirements are provided.
