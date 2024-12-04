@@ -28,6 +28,7 @@ I ranked **1st out of the 80 students** in my cohort, including the teacher! (Em
 - **my_predictions.txt**: The final predictions made on Xtest.txt, used for evaluation in the challenge
 - **data.txt**: The full dataset provided for model development, containing both predictors and the corresponding target values
 - **Xtest.txt**: The dataset containing only predictors, used for generating final predictions to be evaluated as part of the challenge
+- **Rank_Certification_teacher_email.pdf**: The email from my Advanced Linear Regression teacher certifying my rank within my cohort
   
 
 ### How to execute the code?
