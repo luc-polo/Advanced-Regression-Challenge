@@ -1,7 +1,10 @@
 # Advanced Regression Challenge
 
 ### Purpose and Scope:
-The goal of this project is to develop the best linear regression model for a small dataset containing 100 samples, with performance evaluated in terms of Root Mean Square Error (RMSE). To achieve this, various methods of linear regression are implemented, along with feature engineering and selection techniques.
+The goal of this academic project, part of my Advanced Regression course, was to develop the best linear regression model for a given dataset. The dataset contained 100 samples and 200 features, and the challenge was evaluated based on performance in terms of Root Mean Square Error (RMSE). To achieve this, various linear regression methods were implemented, along with feature engineering and selection techniques.
+
+### Results:
+I ranked 1st out of the 80 students in my cohort, including the teacher! (Email from the teacher enclosed as proof of this result)
 
 ### Key Concepts Covered:
 - **Data visualization and statistical summaries**:
